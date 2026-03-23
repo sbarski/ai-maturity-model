@@ -37,7 +37,7 @@ The AI Maturity Model helps software developers figure out whether they're still
 
 - Approved AI tools exist
 - Usage is common but uneven. Some teams swear by it, others swear at it
-- Some AI governance or policies exist
+- Microsoft Copilot is used or mandated. Sadly.
 
 ---
 
@@ -50,7 +50,7 @@ The AI Maturity Model helps software developers figure out whether they're still
 **Developer:**
 
 - Delegates most programming tasks to AI, one at a time
-- AI produces a deliverable, not just a suggestion
+- Human code review is only done on critical systems or components
 - Developer focuses on what to build and whether it's right, not how to build it
 
 **Organization:**
@@ -90,7 +90,7 @@ The AI Maturity Model helps software developers figure out whether they're still
 **Developer:**
 
 - Sets goals, constraints, policies, and acceptance criteria
-- AI does the engineering work with minimal intervention
+- AI does all of the engineering work. 
 - Human steps in for escalations, novel problems, or when AI gets creative in ways nobody asked for
 
 **Organization:**
