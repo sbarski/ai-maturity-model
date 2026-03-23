@@ -1,5 +1,5 @@
 # AI Maturity Model for Software Developers
-The AI Maturity Model helps software developers figure out whether they're still copy pasting from Claude or ChatGPT and pretending they didn't, or actually letting AI run the show. It gives each level a clear boundary, a key signal, and enough honesty to make self assessment uncomfortable. The goal is to make the gap between where you are and where you need to be so obvious you can't ignore it over lunch.
+The AI Maturity Model helps software developers figure out whether they're still copy pasting from Claude or ChatGPT and pretending they didn't, or actually letting AI run the show. It gives each level a clear boundary, a key signal, and enough honesty to make self assessment uncomfortable. The goal is to make the gap between where you are and where you need to be so obvious, you can't ignore it over lunch.
 
 ## Level 1: Ad Hoc Experimentation
 
