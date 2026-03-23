@@ -1,2 +1,12 @@
-# ai-maturity-model
+# AI Maturity Model
 Sbarski AI Maturity Model
+
+# AI Maturity Model for Software Developers
+
+| Level | Boundary | Key Signal | Developer | Organization |
+|---|---|---|---|---|
+| **1: Ad Hoc Experimentation** | AI answers random prompts. Nobody would call this a workflow with a straight face. | You copy paste from ChatGPT and then rewrite most of it anyway. | Uses AI when they remember it exists. Treats output as "sometimes helpful, sometimes confidently wrong." | No standard tools, workflows, or integration. Policy is mostly "please don't paste secrets into weird websites." |
+| **2: AI as Assistant** | AI is a helper, not a teammate. Useful, but still on probation. | AI wrote some of the code in your last PR, but you'd never bring that up in the review. | Uses AI regularly. Contributes pieces of work, not whole deliverables. Developer is still driving; AI is riding shotgun. | Approved tools exist. Usage is uneven. Some teams swear by it, others swear at it. |
+| **3: Developer as Assistant** | AI completes bounded, single tasks end to end. The human kicks each one off. | You hand AI a task and go make coffee. When you get back, it's done. | Delegates most tasks to AI, one at a time. AI produces a deliverable, not a suggestion. Developer focuses on what to build, not how. | AI used across SDLC stages, but each use is human triggered. AI has read/write access to repos, docs, tickets. |
+| **4: Agentic Engineering** | AI chains across tools and stages without being re prompted. It's driving. | AI read the ticket, wrote the code, opened the PR, and pinged you to review. You didn't prompt any of those steps. | Defines an objective; AI plans, codes, tests, iterates. AI moves across contexts on its own. Developer manages the system, not each output. | AI wired into repos, CI/CD, docs, tickets. Guardrails and rollback paths in place. When AI goes off the rails, there's a process. Not just yelling in Slack. |
+| **5: Governed Autonomy** | AI operates toward ongoing goals within policy. Powerful, but not feral. | You review what AI accomplished this week, not what it's doing right now. | Sets goals, constraints, and acceptance criteria. AI does the work with minimal intervention. Human steps in when AI gets creative in ways nobody asked for. | Substantial autonomous work across delivery and ops. Autonomy is policy bounded, observable, and reversible. Fallback modes for when AI gets very confident and very wrong. |
