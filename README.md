@@ -90,11 +90,11 @@ The AI Maturity Model helps software developers figure out whether they're still
 **Developer:**
 
 - Sets goals, constraints, policies, and acceptance criteria
-- AI does all of the engineering work. 
+- AI does the engineering work and everything around it: documentation, testing, release notes, ticket updates, runbooks. 
 - Human steps in for escalations, novel problems, or when AI gets creative in ways nobody asked for
 
 **Organization:**
 
 - AI performs substantial autonomous work across delivery and operations
 - Autonomy is policy bounded, observable, and reversible
-- Fallback modes exist for when AI becomes degraded, unavailable, or suddenly very confident and very wrong
+- A company wide AI knowledge layer exists: release history, architectural decisions, past incidents, and institutional context. Think of it as a staff engineer brain that never leaves the company
