@@ -49,7 +49,7 @@ The AI Maturity Model helps software developers figure out whether they're still
 
 **Developer:**
 
-- Delegates most programming tasks to AI, one at a time
+- Delegates most tasks to AI, one at a time
 - Human code review is only done on critical systems or components
 - Developer focuses on what to build and whether it's right, not how to build it
 
